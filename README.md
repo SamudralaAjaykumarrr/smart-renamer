@@ -1,2 +1,13 @@
-# smart-renamer
-This Python script allows users to batch rename multiple files in a directory based on customizable patterns. Whether you need to add sequential numbers, insert timestamps, or replace parts of filenames, this tool simplifies file management. It supports dry-run mode to preview changes before applying them.
+# Simple To-Do Web App
+
+A basic browser-based to-do list application that allows users to add, complete, and delete tasks.
+
+## Features
+- Add tasks
+- Mark tasks as complete
+- Delete tasks
+- Simple, clean UI
+
+## How to Run
+1. Open `index.html` in your browser.
+2. Use the interface to manage tasks.
