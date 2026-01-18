@@ -8,6 +8,7 @@ A basic browser-based to-do list application that allows users to add, complete,
 - Delete tasks
 - Simple, clean UI
 
+
 ## How to Run
 1. Open `index.html` in your browser.
 2. Use the interface to manage tasks.
